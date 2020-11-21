@@ -40,7 +40,7 @@ var direction;
 var bullet_img;
 var bullets2;
 function preload(){
-bg = loadImage("../images/bg.jpg");
+bg = loadImage("images/bg.jpg");
 zombie1 = loadImage("images/zombie1.png");
 zombie2 = loadImage("images/zombie2.png");
 zombie3 = loadImage("images/zombie3.png");
